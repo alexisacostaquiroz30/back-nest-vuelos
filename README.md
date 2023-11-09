@@ -5,6 +5,10 @@ npm install
 Una vez que se hayan instalado las dependencias, puedes iniciar la aplicación NestJS con el siguiente comando:
 npm run start
 
+en la carpeta informacionBaseDatos se encuentra el backup de los datos para pruebas,la imagen de la entidad relacion de la base de datos, la api está documentada con swagger.
+
+el archivo database.config.ts tiene la informacion para la conexion a la bd
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
