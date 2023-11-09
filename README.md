@@ -1,3 +1,10 @@
+Desplegar el Proyecto Backend (NestJS)
+Ejecuta el siguiente comando para instalar las dependencias utilizando npm:
+npm install
+
+Una vez que se hayan instalado las dependencias, puedes iniciar la aplicación NestJS con el siguiente comando:
+npm run start
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
