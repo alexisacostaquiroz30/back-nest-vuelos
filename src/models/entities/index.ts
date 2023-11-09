@@ -1,0 +1,6 @@
+export { Usuario } from './Usuario'
+export { Aereopuerto } from './Aereopuerto'
+export { Aereolinea } from './Aereolinea'
+export { Avion } from './Avion'
+export { Reserva } from './Reserva'
+export { Vuelo } from './Vuelo'
